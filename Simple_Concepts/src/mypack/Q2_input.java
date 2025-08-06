@@ -20,7 +20,6 @@ public class Q2_input {
         System.out.print("Enter Percentage: ");
         double percentage = sc.nextDouble();
 
-        System.out.printf("%n--- Student Details ---\n");
         System.out.printf("Name       : %s%n", name);
         System.out.printf("Roll No.   : %d%n", roll);
         System.out.printf("Age        : %d%n", age);
@@ -31,3 +30,4 @@ public class Q2_input {
 	}
 
 }
+
